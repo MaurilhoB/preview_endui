@@ -1,1 +1,0 @@
-import"../chunks/CWj6FrbW.js";import"../chunks/D97gD0FZ.js";import{p,a as t}from"../chunks/Csz_-r_D.js";import{i as r}from"../chunks/5DHxqZnk.js";import{o as a}from"../chunks/X5lESoA-.js";import{g as m}from"../chunks/DAY8a_6m.js";import{p as i}from"../chunks/BA6ADPwR.js";function l(s,o){p(o,!1),a(()=>{i.url.pathname==="/"&&m("/show/treatments")}),r(),t()}export{l as component};
